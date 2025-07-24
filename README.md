@@ -63,4 +63,4 @@ Generating reports
 
 Updating configuration files
 
-*OUTPUT* : 
+*OUTPUT* :<img width="523" height="261" alt="Image" src="https://github.com/user-attachments/assets/e6ee2dc3-4760-4a78-9599-5d99f83f1a6c" />
